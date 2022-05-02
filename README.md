@@ -27,8 +27,8 @@ See [`LICENSE`](LICENSE) for more information.
 If you have any questions or you want to know more about the work developed by
 us, please contact one of the contributors of this project:
 
-- Ricardo B. Sousa ([email:feup](up201503004@edu.fe.up.pt),
-  [email:inesctec](ricardo.b.sousa@inesctec.pt),
+- Ricardo B. Sousa ([email:feup](mailto:up201503004@edu.fe.up.pt),
+  [email:inesctec](mailto:ricardo.b.sousa@inesctec.pt),
   [orcid](https://orcid.org/0000-0003-4537-5095))
   _(corresponding author)_
 - Cláudia Daniela Rocha ([email](mailto:claudia.d.rocha@inesctec.pt),
