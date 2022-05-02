@@ -1,0 +1,9 @@
+G04 Examples for testing time performance of Gerber parsers*
+%FSLAX26Y26*%
+%MOMM*%
+%ADD10C,1*%
+%LPD*%
+D10*
+X0Y0D03*
+X78000000Y78000000D03*
+M02*

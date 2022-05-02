@@ -1,0 +1,16 @@
+%FSLAX36Y36*%
+%MOMM*%
+%LPD*%
+%ADD10C,1X0.25*%
+%ADD11O,1X0.5X0.25*%
+%ADD12P,1X5X0.0X0.25*%
+%ADD13R,0.5X1X0.25*%
+%ADD14C,0.1*%
+G01*
+D10*
+X0Y0D03*
+G04 Add black bar to rendered image for visualization purposes*
+D14*
+%LPC*%
+X-500000Y-500000D03*
+X500000Y500000D03*

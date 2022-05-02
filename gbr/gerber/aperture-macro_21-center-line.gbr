@@ -1,0 +1,18 @@
+%FSLAX46Y46*%
+%MOMM*%
+G01*
+G04 Create aperture macro*
+%AMCENTERLINE*
+21,1,5.65685424949,0.25,0,0,$1*%
+G04 Create aperture*
+%ADD10CENTERLINE,45*%
+%ADD14C,0.05*%
+G04 Select aperture*
+D10*
+G04 Flash aperture*
+X0Y0D03*
+%LPC*%
+D14*
+X-2500000Y-2500000D03*
+X2500000Y2500000D03*
+M02*
