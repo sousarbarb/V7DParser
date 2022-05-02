@@ -15,7 +15,51 @@ libraries:
 
 ## Renderization examples
 
-...
+### Accuracy evaluation (image renderization)
+
+- Aperture Blocks
+  ([gbr](gbr/evaluation/accuracy/aperture-blocks.gbr),
+  [render](render/evaluation/accuracy/aperture-blocks/)):
+  `aperture-blocks_<V7DParser|GerbView|GerbLib>_<resolution>mm_px`
+- Front layer of a PCB
+  ([gbr](gbr/evaluation/accuracy/pcb-front.gbr),
+  [render](render/evaluation/accuracy/pcb-front/)):
+  `pcb-front_<V7DParser|GerbView|GerbLib>_<resolution>mm_px`
+- Back layer of a PCB
+  ([gbr](gbr/evaluation/accuracy/pcb-back.gbr),
+  [render](render/evaluation/accuracy/pcb-back/)):
+  `pcb-back_<V7DParser|GerbView|GerbLib>_<resolution>mm_px`
+
+### Performance evaluation (execution time - us)
+
+- Dynamic size
+  ([gbr](gbr/evaluation/performance/),
+  [render](render/evaluation/performance/):
+  `dynamic-<01-40>_<GerbLib|V7DParser>_<resolution>`)
+- Static size
+  ([gbr](gbr/evaluation/performance/),
+  [render](render/evaluation/performance/):
+  `static-<01-40>_<GerbLib|V7DParser>_<resolution>`)
+
+### Gerber standard commands
+
+- Standard Apertures (C/O/P/R)
+  ([gbr](gbr/gerber/),
+  [render](render/gerber/)):
+  `standard-apertures_<c|o|p|r>`
+- Aperture Block (AB)
+  ([gbr](gbr/gerber/aperture-blocks.gbr),
+  [render](render/gerber/aperture-blocks.png))
+- Aperture Macro (AM)
+  ([gbr](gbr/gerber/),
+  [render](render/gerber/)):
+  `aperture-macro_<1-circle|4-outline|5-polygon|6-moire|7-thermal|20-vector-line|21-center-line>`
+- Region Statement (G36/G37)
+  ([gbr](gbr/gerber/region-statement.gbr),
+  [render](render/gerber/region-statement.jpg))
+- Step & Repeat (SR)
+  ([gbr](gbr/gerber/step-repeat.gbr),
+  [render](render/gerber/step-repeat.jpg))
 
 ## License
 
