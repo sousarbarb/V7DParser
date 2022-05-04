@@ -6,12 +6,16 @@ Case Study_. The rendered images were obtained using the following softwares /
 libraries:
 
 - V7DParser: a parser of Gerber files to bitmap images developed by
-  [INESC TEC](https://www.inesctec.pt/en)
+  [CRIIS - Centre for Robotics in Industry and Intelligent Systems](https://www.inesctec.pt/en/centres/criis)
+  from
+  [INESC TEC - Institute for Systems and Computer Engineering, Technology and Science](https://www.inesctec.pt/en)
   in the context of VINCI7D
   ([link 1](https://www.centi.pt/index.php/en/projects/automotive-aeronautics/vinci-7d-en),
   [link 2](https://elibrary.vdi-verlag.de/10.51202/2366-8040-2021-36-012/highly-flexible-displays-for-automotive-interior-applications-volume-11-2021-issue-36?page=1)) project
 - [GerbView](https://www.gerbview.com/)
 - [GerbLib](https://www.bronzware.com/GerbMagic/gerblib.htm)
+- [Reference Gerber Viewer](https://www.ucamco.com/en/gerber/reference-gerber-viewer)
+  (ground-truth data)
 
 ## Renderization examples
 
@@ -86,7 +90,7 @@ us, please contact one of the contributors of this project:
 
 ## Acknowledgements
 
-- [CRIIS - Centre for Robotics in Industry and Intelligent Systems](https://criis.inesctec.pt/)
+- [CRIIS - Centre for Robotics in Industry and Intelligent Systems](https://www.inesctec.pt/en/centres/criis)
   from
   [INESC TEC - Institute for Systems and Computer Engineering, Technology and Science](https://www.inesctec.pt/en)
 - [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
