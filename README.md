@@ -88,6 +88,13 @@ us, please contact one of the contributors of this project:
 - Manuel F. Silva ([email](mailto:mss@isep.ipp.pt),
   [orcid](https://orcid.org/0000-0002-0593-2865))
 
+## References
+
+R. B. Sousa, C. Rocha, H. S. Mendonça, A. P. Moreira and M. F. Silva.
+_Gerber File Parsing for Conversion to Bitmap Image–The VINCI7D Case Study_.
+IEEE Access, vol. 10, pp. 69659-69679, 2022.
+DOI: [10.1109/ACCESS.2022.3187042](https://doi.org/10.1109/ACCESS.2022.3187042)
+
 ## Acknowledgements
 
 - [CRIIS - Centre for Robotics in Industry and Intelligent Systems](https://www.inesctec.pt/en/centres/criis)
